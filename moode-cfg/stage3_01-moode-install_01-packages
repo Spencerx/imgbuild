@@ -25,6 +25,7 @@ peppy-alsa=2024.02.10-1moode1
 peppy-meter=2025.6.3-1moode1
 peppy-spectrum=2024.5.26-1moode1
 pleezer=0.19.1-1moode1
+pycamilladsp=4.0.0-1moode1
 python3-camilladsp-plot=4.0.0-1moode1
 python3-camilladsp=4.0.0-1moode1
 python3-libupnpp=0.26.1-1moode1
