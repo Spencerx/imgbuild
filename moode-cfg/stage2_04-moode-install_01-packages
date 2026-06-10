@@ -30,6 +30,7 @@ fonts-unfonts-core
 fonts-lato
 id3v2
 inotify-tools
+jq
 libasound2-plugin-bluez
 libasound2-plugin-equal
 libatasmart4
